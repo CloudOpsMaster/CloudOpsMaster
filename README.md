@@ -2,7 +2,6 @@
 
 I'm a skilled DevOps Engineer with 4+ years of hands-on experience supporting, automating, and optimizing mission-critical deployments in AWS.  
 I specialize in configuration management, CI/CD pipelines, infrastructure as code, and cloud-native technologies to deliver scalable, reliable, and secure systems.
-
 ---
 
 ## About Me
